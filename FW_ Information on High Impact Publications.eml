@@ -1,0 +1,4071 @@
+Received: from AM6PR0402MB3448.eurprd04.prod.outlook.com (2603:10a6:7:3d::27)
+ by HE1PR04MB3100.eurprd04.prod.outlook.com with HTTPS via
+ HE1PR09CA0083.EURPRD09.PROD.OUTLOOK.COM; Fri, 24 Apr 2020 10:27:39 +0000
+Authentication-Results: astrazeneca.com; dkim=none (message not signed)
+ header.d=none;astrazeneca.com; dmarc=none action=none
+ header.from=astrazeneca.com;
+Received: from AM6PR0402MB3589.eurprd04.prod.outlook.com (2603:10a6:209:3::22)
+ by AM6PR0402MB3448.eurprd04.prod.outlook.com (2603:10a6:209:e::29) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.2937.22; Fri, 24 Apr
+ 2020 10:27:34 +0000
+Received: from AM6PR0402MB3589.eurprd04.prod.outlook.com
+ ([fe80::9815:d45c:ebb1:4617]) by AM6PR0402MB3589.eurprd04.prod.outlook.com
+ ([fe80::9815:d45c:ebb1:4617%3]) with mapi id 15.20.2921.030; Fri, 24 Apr 2020
+ 10:27:34 +0000
+From: "Hatton, Diane" <diane.hatton@astrazeneca.com>
+To: "Coffman, Jon" <jon.coffman@astrazeneca.com>, "Davis, Shawn"
+	<shawn.davis@astrazeneca.com>
+Subject: FW: Information on High Impact Publications
+Thread-Topic: Information on High Impact Publications
+Thread-Index: AdYaIC6vkL9654pbQkm1eCAnu7n5ZwAAh+iQ
+Date: Fri, 24 Apr 2020 10:27:34 +0000
+Message-ID:
+ <AM6PR0402MB3589A828B1AB1A034AF100EC97D00@AM6PR0402MB3589.eurprd04.prod.outlook.com>
+References:
+ <AM6PR0402MB3589FE89150613ACE60CC1CF97D00@AM6PR0402MB3589.eurprd04.prod.outlook.com>
+In-Reply-To:
+ <AM6PR0402MB3589FE89150613ACE60CC1CF97D00@AM6PR0402MB3589.eurprd04.prod.outlook.com>
+Accept-Language: en-GB, en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+ <AM6PR0402MB3589A828B1AB1A034AF100EC97D00@AM6PR0402MB3589.eurprd04.prod.outlook.com>
+MIME-Version: 1.0
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource:
+ AM6PR0402MB3589.eurprd04.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [95.151.5.105]
+X-MS-Exchange-Organization-Network-Message-Id:
+ edf568d5-28f1-4441-4f19-08d7e83a1a83
+X-MS-PublicTrafficType: Email
+X-MS-Office365-Filtering-HT: Tenant
+Return-Path: diane.hatton@astrazeneca.com
+X-MS-Exchange-Organization-ExpirationStartTime: 24 Apr 2020 10:27:34.7441
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Office365-Filtering-Correlation-Id: edf568d5-28f1-4441-4f19-08d7e83a1a83
+X-MS-TrafficTypeDiagnostic: AM6PR0402MB3448:
+X-MS-Oob-TLC-OOBClassifiers: OLM:10000;
+X-Forefront-Antispam-Report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:-1;SRV:;IPV:NLI;SFV:SKI;H:AM6PR0402MB3589.eurprd04.prod.outlook.com;PTR:;CAT:NONE;SFTY:;SFS:;DIR:INB;SFP:;
+X-Microsoft-Antispam: BCL:0;
+X-MS-Exchange-AntiSpam-MessageData:
+ Y10MtAtkwOMo82uMVpRU4+GarOKcPXmM0jBgWfa2sRXjRhV3gnKR60uGzAV9e04YIpk+nsHUKW4nemZNpulZ/QfhYZIQwGj4mK3025dl2DnkQmyGp7wSVbRF8hKXKmP9CgcwYL5bTt92UovZD3Zczw==
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 24 Apr 2020 10:27:34.5665
+ (UTC)
+X-MS-Exchange-CrossTenant-FromEntityHeader: Hosted
+X-MS-Exchange-CrossTenant-Id: af8e89a3-d9ac-422f-ad06-cc4eb4214314
+X-MS-Exchange-CrossTenant-Network-Message-Id: edf568d5-28f1-4441-4f19-08d7e83a1a83
+X-MS-Exchange-CrossTenant-MailboxType: HOSTED
+X-MS-Exchange-CrossTenant-UserPrincipalName: Rg31JDYRGPgS4aJZ34gj60rEX1eYcI5JezHF3TlN0nOuGE1/OiH/2OyrbU3iprZJoyaYwSiTFxRMpBAVtNcHuA==
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: AM6PR0402MB3448
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:04.5719172
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.2937.012
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(750127)(520011016)(706158)(944506383)(944626516);
+X-Microsoft-Antispam-Message-Info:
+	9YBclQJrVY24LNzsXwMXaBdD58d3dr3RHNqHNfID8QlDo7tKBx9UnRmqejzAdBxmJUc2aaF/e8uaNaLr7RWIXK3ZS/ZpEz7c3Qvn/S3znXs7aZZPUZUoF01x2+D0QcIC1+ZfhP4x8p3xsVHCZFUfYDTVrZpfoaMJHrKD4CEOQ5O/VzaRWahnOlmFXjEEVLyQ9Vj0Mxr/H2E5i4tqrE+T2hFt9zhOITdNZctauIDN2HSBjJpfEgSAHt8iG6tXvZQ0Oum84vb87OJqKRhatTWw5JvRdIk09+q5pE5p0PCTlIXR+xGV5ivfv1mdNXnBvoImQ937RnCWiS+gqMIY3nyttR2sAWv058Aho3QJzDnKe1k/dzlkA9MvknDD0GXNOhiUiFb/DceteMhOaUq+jDZjFL+F4MLw4M61OMdEz0bYJborRyHSqjwei0zGsiXnDBqBwGp5n4Lp6zzGUKbgflewlFiHgEqJ45sY5gCHdMMOfpud0oWpNt/5i8IIa7CJzPrYuuXqZE70knq/reO6wmFvMnHHSebI0HliAV1wbaosMeU=
+Content-type: multipart/mixed;
+	boundary="B_3670565911_1414656384"
+
+> This message is in MIME format. Since your mail reader does not understand
+this format, some or all of this message may not be legible.
+
+--B_3670565911_1414656384
+Content-type: multipart/alternative;
+	boundary="B_3670565911_1601916044"
+
+
+--B_3670565911_1601916044
+Content-type: text/plain;
+	charset="UTF-8"
+Content-transfer-encoding: 7bit
+
+FYI Heard that the SCSC were looking for information on what the high impact journals were.
+
+See below for links to Nucleus and attached email that summarises the HI journals.
+
+Thanks
+
+Diane
+
+ 
+
+From: Hatton, Diane 
+Sent: 24 April 2020 11:08
+To: Bright, Helen <helen.bright@astrazeneca.com>; Dibben, Oliver <oliver.dibben@astrazeneca.com>; Chapman, David <david.chapman@astrazeneca.com>; Huson, Claire <claire.huson@astrazeneca.com>; Craig, Daniel <daniel.craig@astrazeneca.com>; Lockhart, Robert  <robert.lockhart@astrazeneca.com>
+Cc: Cheeks, Matthew <matthew.cheeks@astrazeneca.com>
+Subject: Information on High Impact Publications
+
+ 
+
+Link to Nucleus Page:
+
+https://azusgb01--cms.visualforce.com/apex/Main?sname=Intranet&name=IMED-Publications#/
+
+Where can I find information on impact factors?
+
+The impact factors for each year are released in July of the following year. For example, in the first half of 2018, the latest available  IFs are from 2016; after July, the 2017 IFs become available. Therefore, any retrospective analysis of publications that is done after the database is updated each year will reflect the most current JCR IFs available, which may alter the ranking in previous  metric reports.
+
+Link to table of impact factors Click  here for our master journal list with High Impact/High Quality/Other categories
+
+Click  here for our publication tracking principles
+
+ 
+
+An impact factor of 15 and above is defined as high impact, but note that sister journals of Cell and Nature qualify as high impact even though they  are below an impact factor of 15. This also seems to include iScience which is new.
+
+Diane 
+
+ 
+
+Diane Hatton PhD
+
+Senior Director, R&D
+
+_____________________________________________________________________________________________
+
+ 
+
+AstraZeneca
+
+BioPharmaceuticals R&D | BPD | Cell Culture and Fermentation Sciences (CCFS)
+
+ 
+
+Milstein Building, Granta Park, Cambridge, CB21 6GH, UK
+
+T: +44 (0) 203 749 6275   M: +44 (0) 777 502 8672
+
+diane.hatton@astrazeneca.com
+
+ 
+
+Please consider the environment before printing this e-mail 
+
+ 
+
+ 
+
+
+--B_3670565911_1601916044
+Content-type: text/html;
+	charset="UTF-8"
+Content-transfer-encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-microsof=
+t-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" xmlns:m=
+=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http://www.w3.org=
+/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+span.EmailStyle18
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle19
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle20
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-GB" link=3D"#0563C1" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal">FYI Heard that the SCSC were looking for information o=
+n what the high impact journals were.<o:p></o:p></p>
+<p class=3D"MsoNormal">See below for links to Nucleus and attached email that=
+ summarises the HI journals.<o:p></o:p></p>
+<p class=3D"MsoNormal">Thanks<o:p></o:p></p>
+<p class=3D"MsoNormal">Diane<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0cm 0c=
+m 0cm">
+<p class=3D"MsoNormal"><b><span lang=3D"EN-US" style=3D"mso-fareast-language:EN-G=
+B">From:</span></b><span lang=3D"EN-US" style=3D"mso-fareast-language:EN-GB"> Ha=
+tton, Diane
+<br>
+<b>Sent:</b> 24 April 2020 11:08<br>
+<b>To:</b> Bright, Helen &lt;helen.bright@astrazeneca.com&gt;; Dibben, Oliv=
+er &lt;oliver.dibben@astrazeneca.com&gt;; Chapman, David &lt;david.chapman@a=
+strazeneca.com&gt;; Huson, Claire &lt;claire.huson@astrazeneca.com&gt;; Crai=
+g, Daniel &lt;daniel.craig@astrazeneca.com&gt;; Lockhart, Robert
+ &lt;robert.lockhart@astrazeneca.com&gt;<br>
+<b>Cc:</b> Cheeks, Matthew &lt;matthew.cheeks@astrazeneca.com&gt;<br>
+<b>Subject:</b> Information on High Impact Publications<o:p></o:p></span></=
+p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal" style=3D"background:white;vertical-align:bottom"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt">Link to Nucleus Page:<o:p></o:p></span>=
+</p>
+<p class=3D"MsoNormal" style=3D"background:white;vertical-align:bottom"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:#3F4444"><a href=3D"https://azusgb01=
+--cms.visualforce.com/apex/Main?sname=3DIntranet&amp;name=3DIMED-Publications#/"=
+>https://azusgb01--cms.visualforce.com/apex/Main?sname=3DIntranet&amp;name=3DIME=
+D-Publications#/</a><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"background:white;vertical-align:bottom"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:#3F4444">Where can I find informat=
+ion on impact factors?<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"background:white;vertical-align:bottom"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:#707979">The impact factors&nbsp;f=
+or each year are released in July of the following year. For example, in the=
+ first half of 2018, the latest available
+ IFs are&nbsp;from 2016; after July, the 2017&nbsp;IFs become available. Th=
+erefore, any retrospective analysis of publications that is done after the d=
+atabase is updated each year will reflect the most current JCR IFs available=
+, which may alter the ranking in previous
+ metric reports.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"background:white;vertical-align:bottom"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt">Link to table of impact factors
+<span style=3D"color:#707979"><a href=3D"https://azcollaboration.sharepoint.com=
+/sites/MS305/GlobalPublications/Publications%20Coordinators/Nucleus%20%26%20=
+Comms/Journal%20list_Updated%20Oct%202019.xlsx?d=3Dwa81972ececcc46c6885d2d2a94=
+943cb1" target=3D"_blank">Click
+ here for our master journal list with High Impact/High Quality/Other categ=
+ories</a><o:p></o:p></span></span></p>
+<p class=3D"MsoNormal" style=3D"background:white;vertical-align:bottom"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt;color:#707979"><a href=3D"https://azcollab=
+oration.sharepoint.com/:p:/r/sites/MS305/GlobalPublications/Publications%20C=
+oordinators/_layouts/15/Doc.aspx?sourcedoc=3D%7B803BC17B-BC77-48AB-8770-7875BD=
+1B72CA%7D&amp;file=3DAZ%20MEDI%20Publication%20Tracking%20Guiding%20Principles=
+%202018_Final_April.ppsx&amp;action=3Dedit&amp;mobileredirect=3Dtrue">Click
+ here for our&nbsp;publication tracking principles</a><o:p></o:p></span></p=
+>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt"><o:p>&nbsp;</o:p></span=
+></p>
+<p class=3D"MsoNormal" style=3D"background:white;vertical-align:bottom"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt">An impact factor of 15 and above is def=
+ined as high impact, but note that sister journals of Cell and Nature qualif=
+y as high impact even though they
+ are below an impact factor of 15. This also seems to include iScience whic=
+h is new.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"background:white;vertical-align:bottom"><span l=
+ang=3D"EN-US" style=3D"font-size:12.0pt">Diane
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt"><o:p>&nbsp;</o:p></span=
+></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:9.0pt;color:#8B0051;mso-fare=
+ast-language:EN-GB">Diane Hatton PhD</span></b><b><span style=3D"font-size:9.0=
+pt;mso-fareast-language:EN-GB"><o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:9.0pt;mso-fareast-language:EN-G=
+B">Senior Director, R&amp;D<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:8.0pt;font-family:&quot;Arial&q=
+uot;,sans-serif;mso-fareast-language:EN-GB">________________________________=
+_____________________________________________________________<o:p></o:p></sp=
+an></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:9.0pt;font-family:&quot;Aria=
+l&quot;,sans-serif;mso-fareast-language:EN-GB"><o:p>&nbsp;</o:p></span></b><=
+/p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:8.0pt;color:#8B0051;mso-fare=
+ast-language:EN-GB">AstraZeneca<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:8.0pt;color:#8B0051;mso-fareast=
+-language:EN-GB">BioPharmaceuticals R&amp;D | BPD | Cell Culture and Ferment=
+ation Sciences (CCFS)<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:8.0pt;color:#8B0051;mso-fare=
+ast-language:EN-GB"><o:p>&nbsp;</o:p></span></b></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:8.0pt;mso-fareast-language:EN-G=
+B">Milstein Building, Granta Park, Cambridge, CB21 6GH, UK<o:p></o:p></span>=
+</p>
+<p class=3D"MsoNormal"><span style=3D"font-size:8.0pt;mso-fareast-language:EN-G=
+B">T: &#43;44 (0) 203 749 6275&nbsp;&nbsp; M: &#43;44 (0) 777 502 8672<o:p><=
+/o:p></span></p>
+<p class=3D"MsoNormal"><u><span style=3D"font-size:8.0pt;mso-fareast-language:E=
+N-GB"><a href=3D"mailto:hattond@medimmune.com">diane.hatton@astrazeneca.com</a=
+><o:p></o:p></span></u></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:8.0pt;font-family:&quot;Arial&q=
+uot;,sans-serif;mso-fareast-language:EN-GB"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:8.0pt;mso-fareast-language:EN-G=
+B">Please consider the environment before printing this e-mail
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:8.0pt;font-family:&quot;Arial&q=
+uot;,sans-serif;mso-fareast-language:EN-GB">&nbsp;<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+
+
+--B_3670565911_1601916044--
+
+
+--B_3670565911_1414656384
+Content-type: message/rfc822
+Content-disposition: attachment
+
+From: "Hatton, Diane" <diane.hatton@astrazeneca.com>
+To: "Davis, Shawn" <shawn.davis@astrazeneca.com>, "Coffman, Jon"
+	<jon.coffman@astrazeneca.com>
+Subject: FW: FYI High Impact Publications 
+Thread-Topic: FYI High Impact Publications 
+Thread-Index: AdXtgnxZSOArGH0eSaqF2V9Zwbx2sQDIG39g
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Mon, 2 Mar 2020 10:00:01 -0500
+Message-ID:
+	<AM6PR0402MB358910C66A1E48F92A28458C97E70@AM6PR0402MB3589.eurprd04.prod.outlook.com>
+References:
+	<AM6PR0402MB3589DEE85881439BF4491A4297EB0@AM6PR0402MB3589.eurprd04.prod.outlook.com>
+In-Reply-To:
+	<AM6PR0402MB3589DEE85881439BF4491A4297EB0@AM6PR0402MB3589.eurprd04.prod.outlook.com>
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+Content-Type: multipart/alternative;
+	boundary="_000_AM6PR0402MB358910C66A1E48F92A28458C97E70AM6PR0402MB3589_"
+MIME-Version: 1.0
+
+--_000_AM6PR0402MB358910C66A1E48F92A28458C97E70AM6PR0402MB3589_
+Content-Type: text/plain; charset="us-ascii"
+
+FYI
+
+Is the SCSC going to have any role in driving delivery of HI publications or is this being driven at the functional level. In case you haven't come across it, please see below for more information on HI journals.
+
+Thanks!
+
+Diane
+
+
+
+From: Hatton, Diane
+Sent: 27 February 2020 15:48
+To: Cheeks, Matthew <matthew.cheeks@astrazeneca.com>; Venkat, Raghavan <VenkatR@MedImmune.com>; Dunn, Sarah <sarah.dunn@astrazeneca.com>; Ahuja, Sanjeev <sanjeev.ahuja@astrazeneca.com>; Berge, Mark <mark.berge@astrazeneca.com>; Bleckwenn, Nicole <nicole.bleckwenn@astrazeneca.com>; Daramola, Lekan <lekan.daramola@astrazeneca.com>; Qu, Limin <limin.qu@astrazeneca.com>; Schmelzer, Albert <albert.schmelzer@astrazeneca.com>
+Subject: FYI High Impact Publications
+
+
+
+Hello Everyone
+
+I have found information on nucleus relating to HI (high impact) publications. There are a few below IF 15 that still qualify as HI that maybe relevant for CCFS.
+
+Eg, iScience, Nature protocols, Trends in Biotechnology (for a review article). More information on publications can be found on the nucleus page<https://azusgb01--cms.visualforce.com/apex/Main?sname=Intranet&name=IMED-Publications#/> - the HI list can be found under the FAQ section.
+
+I don't know what manuscripts are planned for this year in the different CCFS teams, but for some of them it might be worth considering aiming for a HI journal in the first instance?
+
+Any suggestions welcome.
+
+Thanks
+
+Diane
+
+
+
+Name
+
+Impact Factor
+
+Category
+
+Exception
+
+Notes
+
+Communications Biology
+
+0
+
+HI
+
+Yes
+
+
+iScience
+
+0
+
+HI
+
+Yes
+
+
+JCO Clinical Cancer Informatics
+
+0
+
+HI
+
+Yes
+
+
+JCO Precision Oncology
+
+0
+
+HI
+
+Yes
+
+
+Nature Catalysis
+
+0
+
+HI
+
+Yes
+
+
+Nature Metabolism
+
+0
+
+HI
+
+Yes
+
+
+Nature Review Disease Primers
+
+0
+
+HI
+
+Yes
+
+
+The Lancet Child & Adolescent Health
+
+0
+
+HI
+
+Yes
+
+
+The Lancet Digital Health
+
+0
+
+HI
+
+Yes
+
+
+Lancet Rheumatology
+
+0
+
+HI
+
+Yes
+
+
+Cell Discovery
+
+4.600
+
+HI
+
+Yes
+
+
+Science Immunology
+
+10.551
+
+HI
+
+Yes
+
+
+Nature Human Behaviour
+
+10.575
+
+HI
+
+Yes
+
+
+JAMA Surgery
+
+10.668
+
+HI
+
+Yes
+
+
+Trends in Molecular Medicine
+
+11.028
+
+HI
+
+Yes
+
+Cell sister journal
+
+Nature Protocols
+
+11.334
+
+HI
+
+Yes
+
+
+Trends in Pharmacological Sciences
+
+11.523
+
+HI
+
+Yes
+
+Cell sister journal
+
+Lancet Public Health
+
+11.6
+
+HI
+
+Yes
+
+
+JAMA Cardiology
+
+11.866
+
+HI
+
+Yes
+
+
+Nature Communications
+
+11.878
+
+HI
+
+Yes
+
+
+Molecular Psychiatry
+
+11.973
+
+HI
+
+Yes
+
+Nature sister journal
+
+Trends in Microbiology
+
+11.974
+
+HI
+
+Yes
+
+Cell sister journal
+
+Lancet Haematology
+
+11.99
+
+HI
+
+Yes
+
+
+JAMA Pediatrics
+
+12.004
+
+HI
+
+Yes
+
+
+Nature Structural & Molecular Biology
+
+12.109
+
+HI
+
+Yes
+
+
+Nature Chemical Biology
+
+12.154
+
+HI
+
+Yes
+
+
+Trends in Neurosciences
+
+12.314
+
+HI
+
+Yes
+
+Cell sister journal
+
+JAMA Neurology
+
+12.321
+
+HI
+
+Yes
+
+
+Bone Research
+
+12.354
+
+HI
+
+Yes
+
+Nature sister journal
+
+Science Advances
+
+12.804
+
+HI
+
+Yes
+
+
+Lancet Gastroenterology & Hepatology
+
+12.856
+
+HI
+
+
+The Lancet Gastroenterology & Hepatology
+
+12.856
+
+HI
+
+Yes
+
+
+Trends in Immunology
+
+13
+
+HI
+
+Yes
+
+Cell sister journal
+
+Trends in Biotechnology
+
+13.747
+
+HI
+
+Yes
+
+Cell sister journal
+
+Nature Microbiology
+
+14.300
+
+HI
+
+Yes
+
+
+Neuron
+
+14.403
+
+HI
+
+Yes
+
+Cell sister journal
+
+Molecular Cell
+
+14.548
+
+HI
+
+Yes
+
+
+Lancet HIV
+
+14.753
+
+HI
+
+Yes
+
+
+e-Blood
+
+15.132
+
+HI
+
+
+Endocrine Reviews
+
+15.167
+
+HI
+
+
+Journal of Pineal Research
+
+15.221
+
+HI
+
+        Moved from HQ to HI
+
+Microbiology and Molecular Biology Reviews
+
+15.255
+
+HI
+
+        Moved from HQ to HI
+
+Diabetes Care
+
+15.270
+
+HI
+
+        Moved from HQ to HI
+
+Advanced Drug Delivery Reviews
+
+15.519
+
+HI
+
+        Moved from HQ to HI
+
+Cell Host & Microbe
+
+15.753
+
+HI
+
+
+Advanced Science
+
+15.804
+
+HI
+
+
+Circulation Research
+
+15.862
+
+HI
+
+
+Lancet Global Health
+
+15.873
+
+HI
+
+
+JAMA Psychiatry
+
+15.916
+
+HI
+
+
+American Journal of Respiratory and Critical Care Medicine
+
+16.494
+
+HI
+
+
+Blood
+
+16.562
+
+HI
+
+
+Nano Today
+
+16.582
+
+HI
+
+
+Trends in Cell Biology
+
+16.588
+
+HI
+
+
+Trends in Biochemical Sciences
+
+16.889
+
+HI
+
+
+Nature Biomedical Engineering
+
+17.135
+
+HI
+
+
+Science Translational Medicine
+
+17.161
+
+HI
+
+
+European Urology
+
+17.298
+
+HI
+
+
+Nature Reviews Cardiology
+
+17.42
+
+HI
+
+
+BMJ Clinical Research Ed - Continued by The BMJ
+
+17.445
+
+HI
+
+
+BMJ Compact - Continued by The BMJ
+
+17.445
+
+HI
+
+
+BMJ General Practice
+
+17.445
+
+HI
+
+
+BMJ International Edition
+
+17.445
+
+HI
+
+
+Nature Cell Biology
+
+17.728
+
+HI
+
+
+Clinical Microbiology Reviews
+
+17.75
+
+HI
+
+
+Cell Research
+
+17.848
+
+HI
+
+
+Annual Review of Physiology
+
+17.902
+
+HI
+
+        Moved from HQ to HI
+
+Gut
+
+17.943
+
+HI
+
+
+Acta Neuropathologica
+
+18.174
+
+HI
+
+
+Chem
+
+18.205
+
+HI
+
+        Moved from HQ to HI
+
+Lancet Psychiatry
+
+18.329
+
+HI
+
+
+Nature Reviews Rheumatology
+
+18.545
+
+HI
+
+
+Journal of the American College of Cardiology
+
+18.639
+
+HI
+
+
+Pharmacological Reviews
+
+18.886
+
+HI
+
+
+Annual Review of Plant Biology
+
+18.918
+
+HI
+
+
+Journal of Hepatology
+
+18.946
+
+HI
+
+        Moved from HQ to HI
+
+Intensive Care Medicine
+
+18.967
+
+HI
+
+
+Gastroenterology
+
+19.233
+
+HI
+
+
+Annals of Internal Medicine
+
+19.315
+
+HI
+
+
+Nature Reviews Nephrology
+
+19.684
+
+HI
+
+
+JAMA Internal Medicine
+
+20.768
+
+HI
+
+
+Nature Neuroscience
+
+21.126
+
+HI
+
+
+Nature Reviews Neurology
+
+21.155
+
+HI
+
+
+Annual Review of Immunology
+
+21.429
+
+HI
+
+
+Cell Stem Cell
+
+21.464
+
+HI
+
+
+Immunity
+
+21.522
+
+HI
+
+
+Accounts of Chemical Research
+
+21.661
+
+HI
+
+
+Cell Metabolism
+
+22.415
+
+HI
+
+
+JAMA Oncology
+
+22.416
+
+HI
+
+
+Lancet Respiratory Medicine
+
+22.992
+
+HI
+
+
+Circulation
+
+23.054
+
+HI
+
+
+Nature Chemistry
+
+23.193
+
+HI
+
+
+European Heart Journal
+
+23.239
+
+HI
+
+
+Nature Immunology
+
+23.53
+
+HI
+
+
+Nature Reviews Gastroenterology & Hepatology
+
+23.57
+
+HI
+
+
+Progress in Materials Science
+
+23.725
+
+HI
+
+
+Cancer Cell
+
+23.916
+
+HI
+
+
+Physiological Reviews
+
+24.25
+
+HI
+
+
+Materials Today
+
+24.372
+
+HI
+
+
+Progress in Polymer Science
+
+24.505
+
+HI
+
+
+Lancet Diabetes & Endocrinology
+
+24.54
+
+HI
+
+
+Nature Reviews Endocrinology
+
+24.646
+
+HI
+
+
+Nature Genetics
+
+25.455
+
+HI
+
+
+Advanced Materials
+
+25.809
+
+HI
+
+
+Advances in Physics
+
+26.1
+
+HI
+
+
+Cancer Discovery
+
+26.37
+
+HI
+
+
+Annual Review of Biochemistry
+
+26.922
+
+HI
+
+
+Lancet Infectious Diseases
+
+27.516
+
+HI
+
+
+BMJ British Medical Journal - Continued by The BMJ
+
+27.604
+
+HI
+
+
+The BMJ
+
+27.604
+
+HI
+
+
+Journal of Clinical Oncology
+
+28.245
+
+HI
+
+
+Nature Methods
+
+28.467
+
+HI
+
+
+Lancet Neurology
+
+28.755
+
+HI
+
+
+Nature Medicine
+
+30.641
+
+HI
+
+
+Nature Biotechnology
+
+31.864
+
+HI
+
+
+Nature Reviews Neuroscience
+
+33.162
+
+HI
+
+
+Energy & Environmental Science
+
+33.25
+
+HI
+
+
+Nature Nanotechnology
+
+33.407
+
+HI
+
+
+World Psychiatry
+
+34.024
+
+HI
+
+
+Nature Reviews Clinical Oncology
+
+34.106
+
+HI
+
+
+Nature Reviews Microbiology
+
+34.648
+
+HI
+
+
+Lancet Oncology
+
+35.386
+
+HI
+
+
+Cell
+
+36.216
+
+HI
+
+
+Nature Materials
+
+38.887
+
+HI
+
+
+Chemical Society Reviews
+
+40.443
+
+HI
+
+
+Science
+
+41.037
+
+HI
+
+
+Nature
+
+43.07
+
+HI
+
+
+Nature Reviews Molecular Cell Biology
+
+43.351
+
+HI
+
+
+Nature Reviews Genetics
+
+43.704
+
+HI
+
+
+Nature Reviews Immunology
+
+44.019
+
+HI
+
+
+JAMA - Journal of the American Medical Association
+
+51.273
+
+HI
+
+
+Nature Reviews Cancer
+
+51.848
+
+HI
+
+
+Chemical Reviews
+
+54.301
+
+HI
+
+
+Nature Reviews Drug Discovery
+
+57.618
+
+HI
+
+
+Lancet
+
+59.102
+
+HI
+
+
+New England Journal of Medicine
+
+70.67
+
+HI
+
+
+Nature Reviews Materials
+
+74.449
+
+HI
+
+
+The Lancet Haematology
+
+10.698
+
+HI
+
+Yes
+
+
+The Lancet HIV
+
+11.355
+
+HI
+
+Yes
+
+
+Trends in Pharmacological Sciences
+
+12.108
+
+HI
+
+Yes
+
+Cell sister journal
+
+The Lancet Psychiatry
+
+15.233
+
+HI
+
+
+BMJ Clinical Research Ed
+
+17.445
+
+HI
+
+
+BMJ Compact
+
+17.445
+
+HI
+
+
+The Lancet Global Health
+
+18.705
+
+HI
+
+
+The Lancet Diabetes & Endocrinology
+
+19.313
+
+HI
+
+
+The Lancet Respiratory Medicine
+
+21.466
+
+HI
+
+
+Advanced Materials
+
+21.950
+
+HI
+
+
+The Lancet Infectious Diseases
+
+25.148
+
+HI
+
+
+World Psychiatry
+
+26.561
+
+HI
+
+
+The Lancet Neurology
+
+27.138
+
+HI
+
+
+The Lancet Oncology
+
+36.418
+
+HI
+
+
+Nature
+
+41.577
+
+HI
+
+
+The Lancet
+
+53.254
+
+HI
+
+
+
+
+
+
+
+
+--_000_AM6PR0402MB358910C66A1E48F92A28458C97E70AM6PR0402MB3589_
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+<meta name="Generator" content="Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.msonormal00, li.msonormal00, div.msonormal00
+	{mso-style-name:msonormal0;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.msochpdefault, li.msochpdefault, div.msochpdefault
+	{mso-style-name:msochpdefault;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:10.0pt;
+	font-family:"Calibri",sans-serif;}
+span.emailstyle18
+	{mso-style-name:emailstyle18;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle21
+	{mso-style-type:personal;
+	color:black;
+	font-weight:bold;}
+span.EmailStyle22
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle23
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang="EN-GB" link="#0563C1" vlink="#954F72">
+<div class="WordSection1">
+<p class="MsoNormal"><span style="mso-fareast-language:EN-US">FYI<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="mso-fareast-language:EN-US">Is the SCSC going to have any role in driving delivery of HI publications or is this being driven at the functional level. In case you haven&#8217;t come across it, please see below for more information
+ on HI journals.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="mso-fareast-language:EN-US">Thanks!<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="mso-fareast-language:EN-US">Diane<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="mso-fareast-language:EN-US"><o:p>&nbsp;</o:p></span></p>
+<div>
+<div style="border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0cm 0cm 0cm">
+<p class="MsoNormal"><b><span lang="EN-US">From:</span></b><span lang="EN-US"> Hatton, Diane
+<br>
+<b>Sent:</b> 27 February 2020 15:48<br>
+<b>To:</b> Cheeks, Matthew &lt;matthew.cheeks@astrazeneca.com&gt;; Venkat, Raghavan &lt;VenkatR@MedImmune.com&gt;; Dunn, Sarah &lt;sarah.dunn@astrazeneca.com&gt;; Ahuja, Sanjeev &lt;sanjeev.ahuja@astrazeneca.com&gt;; Berge, Mark &lt;mark.berge@astrazeneca.com&gt;; Bleckwenn, Nicole &lt;nicole.bleckwenn@astrazeneca.com&gt;;
+ Daramola, Lekan &lt;lekan.daramola@astrazeneca.com&gt;; Qu, Limin &lt;limin.qu@astrazeneca.com&gt;; Schmelzer, Albert &lt;albert.schmelzer@astrazeneca.com&gt;<br>
+<b>Subject:</b> FYI High Impact Publications <o:p></o:p></span></p>
+</div>
+</div>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><span style="mso-fareast-language:EN-US">Hello Everyone<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="mso-fareast-language:EN-US">I have found information on nucleus relating to HI (high impact) publications. There are a few below IF 15 that still qualify as HI that maybe relevant for CCFS.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="mso-fareast-language:EN-US">Eg, iScience, Nature protocols, Trends in Biotechnology (for a review article). More information on publications can be found on the
+</span><a href="https://azusgb01--cms.visualforce.com/apex/Main?sname=Intranet&amp;name=IMED-Publications#/">nucleus page</a> &#8211; the HI list can be found under the FAQ section.<o:p></o:p></p>
+<p class="MsoNormal">I don&#8217;t know what manuscripts are planned for this year in the different CCFS teams, but for some of them it might be worth considering aiming for a HI journal in the first instance?<o:p></o:p></p>
+<p class="MsoNormal">Any suggestions welcome.<o:p></o:p></p>
+<p class="MsoNormal">Thanks<o:p></o:p></p>
+<p class="MsoNormal">Diane<span style="mso-fareast-language:EN-US"><o:p></o:p></span></p>
+<p class="MsoNormal"><span style="mso-fareast-language:EN-US"><o:p>&nbsp;</o:p></span></p>
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="809" style="width:606.5pt;border-collapse:collapse">
+<tbody>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;border-top:solid black 1.0pt;border-left:none;border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><b><span style="color:black">Name<o:p></o:p></span></b></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;border-top:solid black 1.0pt;border-left:none;border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><b><span style="color:black">Impact Factor<o:p></o:p></span></b></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;border-top:solid black 1.0pt;border-left:none;border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><b><span style="color:black">Category<o:p></o:p></span></b></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;border-top:solid black 1.0pt;border-left:none;border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><b><span style="color:black">Exception<o:p></o:p></span></b></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;border-top:solid black 1.0pt;border-left:none;border-bottom:solid black 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><b><span style="color:black">Notes<o:p></o:p></span></b></p>
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Communications Biology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">0<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">iScience<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">0<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">JCO Clinical Cancer Informatics<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">0<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">JCO Precision Oncology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">0<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nature Catalysis<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">0<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nature Metabolism<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">0<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nature Review Disease Primers<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">0<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">The Lancet Child &amp; Adolescent Health<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">0<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">The Lancet Digital Health<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">0<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Lancet Rheumatology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">0<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Cell Discovery<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">4.600<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Science Immunology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">10.551<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nature Human Behaviour<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">10.575<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">JAMA Surgery<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">10.668<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Trends in Molecular Medicine <o:p>
+</o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">11.028<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Cell sister journal<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nature Protocols<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">11.334<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Trends in Pharmacological Sciences
+<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">11.523<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Cell sister journal<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Lancet Public Health<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">11.6<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">JAMA Cardiology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">11.866<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nature Communications<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">11.878<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Molecular Psychiatry<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">11.973<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nature sister journal<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Trends in Microbiology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">11.974<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Cell sister journal<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Lancet Haematology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">11.99<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">JAMA Pediatrics<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">12.004<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nature Structural &amp; Molecular Biology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">12.109<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nature Chemical Biology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">12.154<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Trends in Neurosciences<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">12.314<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Cell sister journal<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">JAMA Neurology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">12.321<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Bone Research <o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">12.354<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nature sister journal<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Science Advances<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">12.804<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Lancet Gastroenterology &amp; Hepatology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">12.856<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">The Lancet Gastroenterology &amp; Hepatology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">12.856<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Trends in Immunology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">13<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Cell sister journal<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Trends in Biotechnology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">13.747<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Cell sister journal<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nature Microbiology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">14.300<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Neuron<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">14.403<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Cell sister journal<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Molecular Cell<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">14.548<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Lancet HIV<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">14.753<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">e-Blood<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">15.132<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Endocrine Reviews<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">15.167<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Journal of Pineal Research<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">15.221<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Moved from HQ to HI<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Microbiology and Molecular Biology Reviews<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">15.255<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Moved from HQ to HI<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Diabetes Care<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">15.270<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Moved from HQ to HI<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Advanced Drug Delivery Reviews<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">15.519<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Moved from HQ to HI<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Cell Host &amp; Microbe<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">15.753<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Advanced Science<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">15.804<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Circulation Research<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">15.862<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Lancet Global Health<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">15.873<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">JAMA Psychiatry<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">15.916<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">American Journal of Respiratory and Critical Care Medicine<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">16.494<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Blood<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">16.562<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nano Today<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">16.582<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Trends in Cell Biology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">16.588<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Trends in Biochemical Sciences<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">16.889<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nature Biomedical Engineering<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">17.135<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI <o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Science Translational Medicine <o:p>
+</o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">17.161<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">European Urology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">17.298<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nature Reviews Cardiology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">17.42<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">BMJ Clinical Research Ed - Continued by The BMJ<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">17.445<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">BMJ Compact - Continued by The BMJ<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">17.445<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">BMJ General Practice<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">17.445<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">BMJ International Edition<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">17.445<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nature Cell Biology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">17.728<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Clinical Microbiology Reviews<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">17.75<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Cell Research<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">17.848<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Annual Review of Physiology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">17.902<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Moved from HQ to HI<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Gut<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">17.943<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Acta Neuropathologica<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">18.174<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Chem<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">18.205<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Moved from HQ to HI<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Lancet Psychiatry<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">18.329<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nature Reviews Rheumatology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">18.545<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Journal of the American College of Cardiology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">18.639<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Pharmacological Reviews<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">18.886<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Annual Review of Plant Biology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">18.918<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Journal of Hepatology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">18.946<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Moved from HQ to HI<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Intensive Care Medicine<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">18.967<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Gastroenterology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">19.233<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Annals of Internal Medicine<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">19.315<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nature Reviews Nephrology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">19.684<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">JAMA Internal Medicine<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">20.768<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nature Neuroscience<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">21.126<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nature Reviews Neurology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">21.155<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Annual Review of Immunology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">21.429<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Cell Stem Cell<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">21.464<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Immunity<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">21.522<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Accounts of Chemical Research<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">21.661<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Cell Metabolism<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">22.415<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">JAMA Oncology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">22.416<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Lancet Respiratory Medicine<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">22.992<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Circulation<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">23.054<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nature Chemistry<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">23.193<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">European Heart Journal<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">23.239<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nature Immunology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">23.53<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nature Reviews Gastroenterology &amp; Hepatology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">23.57<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Progress in Materials Science<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">23.725<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Cancer Cell<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">23.916<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Physiological Reviews<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">24.25<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Materials Today<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">24.372<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Progress in Polymer Science<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">24.505<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Lancet Diabetes &amp; Endocrinology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">24.54<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nature Reviews Endocrinology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">24.646<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nature Genetics<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">25.455<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Advanced Materials <o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">25.809<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Advances in Physics<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">26.1<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Cancer Discovery<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">26.37<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Annual Review of Biochemistry<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">26.922<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Lancet Infectious Diseases<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">27.516<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">BMJ British Medical Journal - Continued by The BMJ<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">27.604<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">The BMJ<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">27.604<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Journal of Clinical Oncology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">28.245<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nature Methods<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">28.467<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Lancet Neurology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">28.755<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nature Medicine<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">30.641<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nature Biotechnology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">31.864<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nature Reviews Neuroscience<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">33.162<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Energy &amp; Environmental Science<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">33.25<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nature Nanotechnology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">33.407<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">World Psychiatry <o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">34.024<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nature Reviews Clinical Oncology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">34.106<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nature Reviews Microbiology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">34.648<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Lancet Oncology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">35.386<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Cell<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">36.216<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nature Materials<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">38.887<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Chemical Society Reviews<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">40.443<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Science<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">41.037<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nature <o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">43.07<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nature Reviews Molecular Cell Biology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">43.351<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nature Reviews Genetics<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">43.704<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nature Reviews Immunology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">44.019<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">JAMA - Journal of the American Medical Association<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">51.273<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nature Reviews Cancer<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">51.848<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Chemical Reviews<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">54.301<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nature Reviews Drug Discovery<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">57.618<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Lancet<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">59.102<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">New England Journal of Medicine<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">70.67<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nature Reviews Materials<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">74.449<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">The Lancet Haematology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">10.698<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">The Lancet HIV<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">11.355<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Trends in Pharmacological Sciences<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">12.108<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Yes<o:p></o:p></span></p>
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Cell sister journal<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">The Lancet Psychiatry<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">15.233<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">BMJ Clinical Research Ed<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">17.445<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">BMJ Compact<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">17.445<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">The Lancet Global Health<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">18.705<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">The Lancet Diabetes &amp; Endocrinology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">19.313<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">The Lancet Respiratory Medicine<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">21.466<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Advanced Materials<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">21.950<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">The Lancet Infectious Diseases<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">25.148<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">World Psychiatry<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">26.561<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">The Lancet Neurology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">27.138<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">The Lancet Oncology<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">36.418<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">Nature<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">41.577<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;background:#D9D9D9;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+<tr style="height:14.4pt">
+<td width="353" nowrap="" valign="bottom" style="width:264.5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">The Lancet<o:p></o:p></span></p>
+</td>
+<td width="101" nowrap="" valign="bottom" style="width:76.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal" align="right" style="text-align:right"><span style="color:black">53.254<o:p></o:p></span></p>
+</td>
+<td width="73" nowrap="" valign="bottom" style="width:55.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+<p class="MsoNormal"><span style="color:black">HI<o:p></o:p></span></p>
+</td>
+<td width="79" nowrap="" valign="bottom" style="width:59.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+<td width="203" nowrap="" valign="bottom" style="width:152.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt">
+</td>
+</tr>
+</tbody>
+</table>
+<p class="MsoNormal"><span style="mso-fareast-language:EN-US"><o:p>&nbsp;</o:p></span></p>
+<div>
+<p class="MsoNormal"><span lang="EN-US">&nbsp;<o:p></o:p></span></p>
+</div>
+</div>
+</body>
+</html>
+
+--_000_AM6PR0402MB358910C66A1E48F92A28458C97E70AM6PR0402MB3589_--
+
+--B_3670565911_1414656384--
+

@@ -1,0 +1,6 @@
+[user]
+	email = jon.coffman@astrazeneca.com
+	name = Coffman, Jon
+[core]
+	excludesfile = /Users/klqj388/.gitignore_global
+
